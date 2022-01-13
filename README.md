@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+A blog site for the CPT_S 490 Work/Study internship class.
