@@ -1,11 +1,8 @@
 ---
-title: 'Two Forms of Pre-rendering'
-date: '2020-01-01'
+title: 'Week of 1/10/21'
+date: '2021-01-012'
 ---
 
-Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.
+This week I worked on bug fixes for a date picker component used on one of the application we are developing. Date pickers are complex, and the more my fellow developers and other users interact with the date picker, the more bugs we seem to log. 
 
-- **Static Generation** is the pre-rendering method that generates the HTML at **build time**. The pre-rendered HTML is then _reused_ on each request.
-- **Server-side Rendering** is the pre-rendering method that generates the HTML on **each request**.
-
-Importantly, Next.js lets you **choose** which pre-rendering form to use for each page. You can create a "hybrid" Next.js app by using Static Generation for most pages and using Server-side Rendering for others.
+I also spent some time updating the CDK for this application. The CDK allows to specify Amazon Web Services cloud resources in code. It's very neat technology!
