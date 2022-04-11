@@ -1,6 +1,6 @@
 ---
-title: 'Week of 2/28/21 to 3/04/21'
-date: '2021-03-04'
+title: 'Week of 2/28/22 to 3/04/22'
+date: '2022-03-04'
 ---
 
 This week I finished implementing the login page described last week and shifted to implementing a table for that new module I mentioned. I researched best practices with HTML tables and found some cool functionality that I hadn't known before, that being `colgroup` to apply styles to whole columns! The table had some more custom functionality, such as dropdowns and special filters so I'm still working on implementing that. 

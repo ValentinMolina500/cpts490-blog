@@ -1,6 +1,6 @@
 ---
-title: 'Week of 1/31/21 to 2/04/21'
-date: '2021-02-04'
+title: 'Week of 1/31/22 to 2/4/22'
+date: '2022-02-04'
 ---
 
 This week I really doubled down on the file share list view component. To be sure, the original implementation left much to be desired. 

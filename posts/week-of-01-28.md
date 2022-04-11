@@ -1,6 +1,6 @@
 ---
-title: 'Week of 1/24/21 to 1/28/21'
-date: '2021-01-28'
+title: 'Week of 1/24/22 to 1/28/22'
+date: '2022-01-28'
 ---
 
 I spent the majority of this week refactoring a file list view component to allows user to be able to expand folders and see the files contained in said folders. This turned out to be a much bigger lift than anticipated (unfortunately us develoeprs have a knack for this saying this I've heard). The way the list view component was originally implemented was not conducive to allowing this kind of functionality. So, I had to rewrite the core logic of the list view while perserving existing functionality. 

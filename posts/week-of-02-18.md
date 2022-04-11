@@ -1,6 +1,6 @@
 ---
-title: 'Week of 2/14/21 to 2/18/21'
-date: '2021-02-18'
+title: 'Week of 2/14/22 to 2/18/22'
+date: '2022-02-18'
 ---
 
 This week was much a return to normalcy. I split my work between two main tasks.

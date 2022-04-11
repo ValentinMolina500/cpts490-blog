@@ -1,6 +1,6 @@
 ---
-title: 'Week of 2/07/21 to 2/11/21'
-date: '2021-02-11'
+title: 'Week of 2/07/22 to 2/11/22'
+date: '2022-02-11'
 ---
 
 Finally.
